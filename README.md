@@ -7,3 +7,9 @@ CTRL+B = Bold text
 CTRL+S = Save content
 
 ![Simplenotes](https://i.imgur.com/69SmpJt.png)
+
+
+
+# License
+None, do what you want with it - even sell it, i don't care.
+This was not made for $$ reasons, but for private and public to use for free.
